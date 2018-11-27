@@ -1,3 +1,3 @@
 # knightninja
-It's a Simple Game Of Mario type that developed using Construct2.
+It's a Simple Game that developed using Construct2.
 
