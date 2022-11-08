@@ -1,1 +1,2 @@
 Staging file 01
+Staging file 02
